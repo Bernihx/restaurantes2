@@ -17,7 +17,7 @@ import { Geolocation } from '@ionic-native/geolocation';
     HomePage,
     RestaurantePage, //Inportacio de les pagines.
     AgregarRestaurantePage
-    
+    //xD
   ],
   imports: [
     BrowserModule,
